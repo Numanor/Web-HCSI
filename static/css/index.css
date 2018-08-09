@@ -1,0 +1,55 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+
+.auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    width: 1201px;
+}
+
+header {
+    background: #112342;
+}
+
+header div.headline {
+    position: relative;
+    height: 0px;
+    top: 50px;
+}
+
+header div.headline p {
+    text-align: center;
+    font-family: STHeitiSC-Medium;
+    color: #FFFFFF;
+    letter-spacing: 0;
+}
+header ul {
+    height: 70px;
+    background: #EFF0F3;
+}
+
+header ul li {
+    float: left;
+    line-height: 70px;
+    margin-left: 75px;
+}
+
+header ul li a {
+    background-image: url(../imgs/Rectangle%205.png);
+    background-repeat: no-repeat;
+    background-position: 0px 3px;
+    padding: 0px 20px;
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: black;
+    letter-spacing: 0;
+}
