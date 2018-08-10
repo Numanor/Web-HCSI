@@ -64,3 +64,96 @@ header ul li a.selected {
     color: black;
     letter-spacing: 0;
 }
+
+div.awards {
+    padding: 40px 0px 0px 30.2px;
+}
+
+.awards_title {
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: #4A4A4A;
+}
+
+.awards_more {
+    padding: 21.5px;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #4A90E2;
+}
+
+.column {
+    float: left;
+}
+
+.column2 {
+    float: right;
+}
+
+.about {
+    padding: 42px 0px 0px 29.5px;
+}
+
+.about_title {
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: #434343;
+}
+
+.about_more {
+    padding: 0px 0px 0px 453px;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #4A90E2;
+}
+
+.summary {
+    padding: 402px 0px 0px 29.5px;
+}
+
+.summary_title {
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: #4A4A4A;
+}
+
+.summary_more {
+    padding: 0px 0px 0px 298px;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #4A90E2;
+}
+
+.teaching {
+    padding: 42px 0px 0px 30.6px;
+}
+
+.teaching_title {
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: #434343;
+}
+
+.teaching_more {
+    padding: 0px 0px 0px 90px;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #4A90E2;
+}
+
+.demo {
+    padding: 403px 0px 0px 30.6px;
+}
+
+.demo_title {
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: #434343;
+}
+
+.demo_more {
+    padding: 0px 0px 0px 28px;
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #4A90E2;
+}
