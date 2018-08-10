@@ -67,6 +67,7 @@ header ul li a.selected {
 
 div.awards {
     padding: 40px 0px 0px 30.2px;
+    width: 234px;
 }
 
 .awards_title {
@@ -76,10 +77,24 @@ div.awards {
 }
 
 .awards_more {
-    padding: 21.5px;
+    padding: 0px 0px 0px 35px;
     font-family: HelveticaNeue;
     font-size: 20px;
     color: #4A90E2;
+}
+
+.awards_year {
+    font-family: HelveticaNeue;
+    font-size: 20px;
+    color: #434343;
+    letter-spacing: 0;
+}
+
+.awards_text {
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #428BCA;
+    text-align: justify;
 }
 
 .column {
@@ -88,6 +103,7 @@ div.awards {
 
 .about {
     padding: 42px 0px 0px 29.5px;
+    width: 550px;
 }
 
 .about_title {
@@ -97,7 +113,7 @@ div.awards {
 }
 
 .about_more {
-    padding: 0px 0px 0px 453px;
+    padding: 0px 0px 0px 403px;
     font-family: HelveticaNeue;
     font-size: 20px;
     color: #4A90E2;
@@ -105,6 +121,7 @@ div.awards {
 
 .summary {
     padding: 10px 0px 0px 29.5px;
+    width: 550px;
 }
 
 .summary_title {
@@ -114,7 +131,7 @@ div.awards {
 }
 
 .summary_more {
-    padding: 0px 0px 0px 300px;
+    padding: 0px 0px 0px 250px;
     font-family: HelveticaNeue;
     font-size: 20px;
     color: #4A90E2;
@@ -122,6 +139,7 @@ div.awards {
 
 .teaching {
     padding: 43px 0px 0px 30.6px;
+    width: 320px;
 }
 
 .teaching_title {
@@ -139,6 +157,7 @@ div.awards {
 
 .demo {
     padding: 10px 0px 0px 30.6px;
+    width: 320px;
 }
 
 .demo_title {
@@ -157,4 +176,11 @@ div.awards {
 .title_underline {
     padding-bottom: 9px;
     border-bottom: 2.1px solid #4A90E2;
+}
+
+.award_line {
+    height:2px;
+    width: 200px;
+    border:0;
+    border-top:2px solid #D8D8D8;
 }
