@@ -53,3 +53,14 @@ header ul li a {
     color: black;
     letter-spacing: 0;
 }
+
+header ul li a.selected {
+    background-image: url(../imgs/Rectangle%206.png);
+    background-repeat: no-repeat;
+    background-position: 0px 3px;
+    padding: 0px 20px;
+    font-family: STHeitiSC-Light;
+    font-size: 17px;
+    color: black;
+    letter-spacing: 0;
+}
