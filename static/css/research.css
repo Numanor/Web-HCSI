@@ -1,0 +1,46 @@
+p.head1 {
+    margin-top: 40px;
+}
+span.head1 {
+    font-family: STHeitiSC-Light;
+    font-size: 25px;
+    color: #434343;
+    border-bottom: #4A90E2 solid 2px;
+    padding-bottom: 5px;
+}
+
+p.head2 {
+    margin-top: 20px;
+    background-image: url(../imgs/Rectangle%205.png);
+    background-repeat: no-repeat;
+    background-position: 0px 5px;
+    padding-left: 20px;
+    font-size: 20px;
+    line-height: 20px;
+}
+.main_container {
+    width: 903px;
+}
+
+.paragraph {
+    font-family: STHeitiSC-Light;
+    font-size: 16px;
+    color: #434343;
+    line-height: 20px;
+    word-spacing: 4px;
+    margin-top: 20px;
+}
+
+ul.paper_list > li {
+    background: rgba(189, 188, 188, 0.21);
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #000000;
+    line-height: 25px;
+    margin: 5px 0px;
+    padding: 10px 5px;
+}
+
+a.paper_link {
+    color: #77a6dd;
+}
