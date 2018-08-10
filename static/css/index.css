@@ -167,7 +167,7 @@ div.awards {
 }
 
 .demo_more {
-    padding: 0px 0px 0px 28px;
+    padding: 0px 0px 0px 212px;
     font-family: HelveticaNeue;
     font-size: 20px;
     color: #4A90E2;
@@ -183,4 +183,32 @@ div.awards {
     width: 200px;
     border:0;
     border-top:2px solid #D8D8D8;
+}
+
+.course_name {
+    font-family: STHeitiSC-Medium;
+    font-size: 14px;
+    color: #434343;
+    letter-spacing: 0;
+    text-align: center;
+}
+
+.course_text {
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #434343;
+    letter-spacing: 0;
+    text-align: justify;
+    line-height: 15px;
+}
+
+.demo_content {
+    font-family: STHeitiSC-Light;
+    font-size: 14px;
+    color: #646B64;
+    letter-spacing: 0;
+}
+
+.img_malign {
+    vertical-align: middle;
 }
