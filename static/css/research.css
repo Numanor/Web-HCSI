@@ -1,6 +1,7 @@
 p.head1 {
     margin-top: 40px;
 }
+
 span.head1 {
     font-family: STHeitiSC-Light;
     font-size: 25px;
@@ -18,8 +19,16 @@ p.head2 {
     font-size: 20px;
     line-height: 20px;
 }
+ul.head2 > li {
+    list-style-position: inside;
+    list-style-image: url(../imgs/Rectangle%205.png);
+    list-style-type: disc;
+    line-height: 30px;
+}
+
 .main_container {
     width: 903px;
+    margin-bottom: 100px;
 }
 
 .paragraph {
@@ -31,7 +40,13 @@ p.head2 {
     margin-top: 20px;
 }
 
-ul.paper_list > li {
+.paragraph li {
+    list-style-position: inside;
+    list-style-image: url(../imgs/Rectangle%205.png);
+    list-style-type: disc;
+}
+
+ul.paper_list>li {
     background: rgba(189, 188, 188, 0.21);
     font-family: STHeitiSC-Light;
     font-size: 14px;
